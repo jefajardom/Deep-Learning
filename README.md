@@ -15,4 +15,12 @@ Assignment 3: Image Colourization
 - Implement skip connections and other techniques to improve performance.
 - Implement a cGAN and compare with an autoencoder.
 - Improve on the cGAN by trying one of several techniques to enhance training.
+  
+Assignment 4: Movie Review Analysis
+
+- Clean and process text data for machine learning.
+- Perform tokenization of text data.
+- Understand and implement a word-level recurrent neural network.
+- Implement batching of text data using a DataLoader before training a recurrent neural network.
+- Understand how to apply pretrained models for transfer learning in natural language processing projects.
 
